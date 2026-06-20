@@ -18,6 +18,12 @@ https://oshwhub.com/movecall/mocm0
 
 The project is publicly available on the OSHW Lab platform.
 
+Here is a quick preview of the MoCM0 project:
+![Screenshot](MoCM0.png)
+
+Here is a quick preview of the non-official Raspberry Pi CM0 3D model (STEP format):
+![Screenshot](CM0_STEP.png)
+
 ## Extraction Process
 
 The model was obtained through the following process:
@@ -37,11 +43,10 @@ The STEP file was extracted from a third-party community project and is provided
 
 The model can be used for:
 
-- Mechanical enclosure design
-- PCB assembly visualization
-- Collision and clearance checking
-- Integration into CAD assemblies
+- PCB design of the custom carrier board
 - General Raspberry Pi CM0 hardware development
+- PCB assembly visualization
+- Mechanical enclosure design
 
 ## References
 
